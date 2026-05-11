@@ -1,0 +1,31 @@
+id,text,label ,notes
+1,Just got promoted at work I am so excited,Positive,
+2,"Cannot believe she said that to me, I am furious",Neutral,
+3,Going to the grocery store later,Neutral,
+4,Honestly today was just okay,Neutral,
+5,"I love how the weather feels today, perfect for a walk",Positive,
+6,Oh great another Monday meeting that could have been an email,Negative,flip from surface positive
+7,My grandmother passed away last night,Negative,The tweet is technically factual
+8,"Got my exam results back, did not go well",Negative,
+9,Working from home this week,Neutral,
+10,"Cannot wait for the weekend, finally some time to myself",Positive,
+11,The traffic this morning was a nightmare,Negative,
+12,Coffee is brewing,Negative,
+13,I am so grateful for everyone who showed up yesterday,Negative,
+14,Why does nothing ever work the way it should,Negative,
+15,Watching reruns of an old show,Neutral,
+16,"She got the job offer, I am so happy for her",Positive,
+17,I miss how things used to be,Negative,
+18,Finished reading that book last night,Neutral,
+19,Cannot tell if I am happy or just relieved that it is over,Positive,which dominates?
+20,The food at this restaurant was disappointing,Negative,
+21,Standing in line at the airport,Neutral,
+22,"First snowfall of the year, looks beautiful outside",Positive,positive or neutral?
+23,I am tired of pretending I am okay,Negative,
+24,Heading to work in a bit,Neutral,
+25,"Got an unexpected bonus this month, did not see that coming",Positive,dominant signal
+26,The flight got delayed again,Negative,
+27,Just made dinner,Neutral,
+28,"Reconnected with an old friend after years, it was so nice",Positive,
+29,Failed the driving test for the second time,Negative,
+30,The new policy starts next month,Neutral,
